@@ -1,2 +1,2 @@
 {:deps
- {time-lib/time-lib {:local/root "../time-lib-clj"}}}
+ {io.github.2624789/time-lib-clj {:git/tag "v0.0.1" :git/sha "4c75247"}}}
